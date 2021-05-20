@@ -1,0 +1,20 @@
+INFO:root:program started
+INFO:root:a value entered
+INFO:root:b value entered
+DEBUG:root:before conversion: a=12,b=6
+INFO:root:a,b values converted successfully
+DEBUG:root:after conversion: a=12.0,b=6.0
+INFO:root:result calculated
+DEBUG:root:ReSult: 2.0
+INFO:root:ended
+ERROR:root:could not convert string to float: 'yu'
+2021-05-20 06:36:32,343==>root==>ERROR==>float division by zero
+2021-05-20 06:37:48,986==>root==>INFO==>program started
+2021-05-20 06:37:50,227==>root==>INFO==>a value entered
+2021-05-20 06:37:50,694==>root==>INFO==>b value entered
+2021-05-20 06:37:50,694==>root==>DEBUG==>before conversion: a=12,b=6
+2021-05-20 06:37:50,695==>root==>INFO==>a,b values converted successfully
+2021-05-20 06:37:50,698==>root==>DEBUG==>after conversion: a=12.0,b=6.0
+2021-05-20 06:37:50,698==>root==>INFO==>result calculated
+2021-05-20 06:37:50,699==>root==>DEBUG==>ReSult: 2.0
+2021-05-20 06:37:50,699==>root==>INFO==>ended
